@@ -1,3 +1,4 @@
+upgrade typeorm to  "typeorm": "^0.2.21" to avoid bugs
 
 A Fullstack GraphQL Airbnb Clone with React and React Native
 
