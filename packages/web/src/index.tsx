@@ -6,6 +6,8 @@ import * as serviceWorker from "./serviceWorker";
 import { client } from "./apollo";
 import { Routes } from "./routes";
 import App from "./App";
+import "./index.css";
+
 
 ReactDOM.render(
   <ApolloProvider client={client}>
